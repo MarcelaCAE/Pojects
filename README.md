@@ -1,4 +1,4 @@
-# Welcome to HR analytics Employee Attrition Project.
+## Welcome to HR analytics Employee Attrition Project.
 
 # About the Project
 Welcome to my project! This project uses a simulated dataset that contains detailed information about employees, their roles, demographics, and job-related factors.
