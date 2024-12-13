@@ -1,7 +1,7 @@
 ## Welcome to HR analytics Employee Attrition Project
 
 
-### About the Project
+#### About the Project
 Welcome to my project! This project analyzes simulated employee attrition data to identify key factors influencing employees leaving the company. By understanding these patterns, organizations can develop strategies to improve retention and engagement.
 
 ## Objective:
