@@ -60,3 +60,8 @@ The Employee Engagement Score is a key metric for reducing turnover, as it can i
 Conduct hypothesis testing to validate key relationships with attrition and gain deeper insights into the factors driving employee turnover.
 Develop a predictive model to enhance the KPI and enable faster identification of employees at risk of attrition.
 Collect employee feedback through surveys to complement quantitative findings with valuable qualitative insights.
+
+#### Deliverables
+Jupyter Notebook: Contains the complete EDA, visualizations, and insights.
+SQL Queries: Used to compute additional metrics and validate correlations.
+PowerPoint Presentation: Summarizes findings with clear visualizations for stakeholder communication.
