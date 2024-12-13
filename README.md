@@ -62,6 +62,6 @@ Develop a predictive model to enhance the KPI and enable faster identification o
 Collect employee feedback through surveys to complement quantitative findings with valuable qualitative insights.
 
 #### Deliverables
-Jupyter Notebook: Contains the complete EDA, visualizations, and insights.
-SQL Queries: Used to compute additional metrics and validate correlations.
-PowerPoint Presentation: Summarizes findings with clear visualizations for stakeholder communication.
+1. Jupyter Notebook: Contains the complete EDA, visualizations, and insights.
+2. SQL Queries: Used to compute additional metrics and validate correlations.
+3. PowerPoint Presentation: Summarizes findings with clear visualizations for stakeholder communication.
